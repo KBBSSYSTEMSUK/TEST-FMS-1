@@ -1,3 +1,4 @@
+
 SET QUOTED_IDENTIFIER ON
 GO
 SET ANSI_NULLS ON
@@ -19,6 +20,9 @@ BEGIN
     -- Insert statements for procedure here
 	
 	-- Do something funky
+
+	SELECT
+		1 as JimNeedsALife
 
 
 END
